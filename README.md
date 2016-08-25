@@ -9,3 +9,6 @@ Framework Credits: Udacity
 ## 3. Student Intervention
 This project demonstrates understanding of Supervised Classification. Support Vector Machines (SVM), Decision Tree Classifier and Gaussian Naive Bayes Classifiers have been explored. A grid-search cross-validation is performed for the SVM and the optimal model's performance was noted.
 ## 4. Customer Segments
+This project focuses on Unsupervised Learning algorithms such as Dimensionality Reduction using Principal Component Analysis (PCA), Outlier Detection and Clustering. The goal of the project is to uncover hidden segmentation of types of customers based on purchasing patterns.
+## 5. Smartcab
+This project demonstrates the application of Reinforcement Learning - specifically Q-Learning to a simulated smartcab in a simplified world (grid). Over time, the agent (smartcab) learns to obey traffic rules, learns to avoid collisions with other cars and simultaneously learns to navigate to the goal position in the shortest possible path.
